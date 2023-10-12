@@ -93,6 +93,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Crescent](https://crescent.network/) - A connected DeFi functionality enhancing capital efficiency and risk management in the Cosmos Ecosystem. Features include Crescent DEX, Derivatives, and a marketplace for multi-chain assets.
 - [Picasso](https://picasso.xyz/) - An extensive offering of cross-chain native pallets forming DeFi’s most robust interoperable platform.
 - [Trustless Zone](https://www.trustless.zone/#ux) - Centauri utilizes Inter-Blockchain Communication (IBC) to enable trustless transfers between multiple ecosystems, offering self-custodied asset transfers, cross-ecosystem transport, and a seamless user experience.
+- [Umee](https://umee.cc/) - A highly programmable, safety-first, autonomous lending algorithm built as a blockchain. Umee is designed to reshape global debt markets in Web3, offering a combination of leverage-focused DeFi applications and interest rate products while enabling scalability, cross-chain interoperability, and privacy.
 
 ### Development Tools
 
@@ -127,6 +128,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 ### Staking Platforms
 
 - [Quicksilver](https://quicksilver.zone/) - Liquid stake your Cosmos assets with any preferred validator, earn staking APY, and receive qASSETs for various financial activities while retaining governance rights on the native chain.
+- [Stride Zone](https://www.stride.zone/) - Receive stTokens when you stake, which can be freely traded and redeemed at any time to receive your original tokens plus staking rewards.
 
 ### Trading Platforms
 
