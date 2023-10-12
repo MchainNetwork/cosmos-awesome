@@ -12,6 +12,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Blockchain Frameworks](#blockchain-frameworks)
 - [Blockchain Platforms](#blockchain-platforms)
 - [Community and Learning Platforms](#community-and-learning-platforms)
+- [dApps](#dapps)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [DeFi Platforms](#defi-platforms)
 - [Development Tools](#development-tools)
@@ -60,10 +61,16 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Kava](https://www.kava.io/) - Combines Ethereum smart contract development with the interoperability of the Cosmos SDK, connecting to over 30 chains in the Cosmos ecosystem.
 - [Gitopia](https://gitopia.com/) - An application-specific blockchain built on Cosmos SDK, optimized for high throughput, fast finality, and direct integration with other IBC compatible chains.
 - [Injective](https://injective.com/) - A financial blockchain offering out-of-the-box modules and interoperable smart contracts, built with the Cosmos SDK, enabling instant transaction finality and fast cross-chain transactions, aiming to create a free and inclusive financial system.
+- [Radix DLT](https://www.radixdlt.com/) - Utilizes Scrypto and Radix Engine to revolutionize Web3 development, offering intuitive tools for the fast, secure development and deployment of powerful DeFi and Web3 applications, ensuring asset management ease and enhanced security against costly DeFi hacks.
+- [Odin Protocol](https://odinprotocol.io/) - A data-centric, interoperable ecosystem built on a layer-1 blockchain with an inbuilt oracle and a rewards-based system for users. ODIN enables private, secure data sharing with dApps and anonymous data exchange, focusing on user-driven data while ensuring privacy and security.
 
 ### Community and Learning Platforms
 
-- [Osmosis](https://osmosis.zone/) - A platform for community engagement, discussions, and learning about the Osmosis ecosystem.
+- 
+
+### dApps
+
+- [Teritori](https://teritori.com/) - The super dApp for unstoppable organizations, enabling resilient and transparent communication and interaction for organizations.
 
 ### Decentralized Exchanges
 
