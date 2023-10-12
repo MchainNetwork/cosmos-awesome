@@ -23,6 +23,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Real Estate on Blockchain](#real-estate-on-blockchain)
 - [Privacy Blockchains](#privacy-blockchains)
 - [Security Platforms](#security-platforms)
+- [Staking & Nodes Services](#staking-nodes-services)
 - [Smart Contract Platforms](#smart-contract-platforms)
 - [Staking Platforms](#staking-platforms)
 - [Trading Platforms](#trading-platforms)
@@ -130,6 +131,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Quicksilver](https://quicksilver.zone/) - Liquid stake your Cosmos assets with any preferred validator, earn staking APY, and receive qASSETs for various financial activities while retaining governance rights on the native chain.
 - [Stride Zone](https://www.stride.zone/) - Receive stTokens when you stake, which can be freely traded and redeemed at any time to receive your original tokens plus staking rewards.
 
+### Staking & Nodes Services
+
+- [Allnodes](https://www.allnodes.com/) - Offers Masternodes, Validator Nodes, Sentry Nodes, and Full Nodes setup in minutes, backed by multilayered monitoring systems for maximum uptime. Also provides staking services and address monitoring for various coins.
+
 ### Trading Platforms
 
 - [Levana Finance](https://www.levana.finance/) - Offers fully-collateralized perpetual swaps with up to 30x leverage and low fees, boasting zero insolvency risk.
@@ -137,6 +142,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 ### Validators
 
 - [CryptoCrew Validators](https://ccvalidators.com/) - A reputable Austrian-based validator, IBC relayer, and blockchain infrastructure provider, securing over 30 interchain networks with decentralized bare metal servers, advanced security, and a dedicated 24/7 on-call team. Supports over 35 networks and relays over 50 networks globally.
+- [A41](https://www.a41.io/stake) - Enjoy staking rewards while exploring best-in-class research and content, tailored to provide only the most useful information to the audience.
 
 ### Wallets
 
