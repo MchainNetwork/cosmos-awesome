@@ -18,6 +18,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Development Tools](#development-tools)
 - [Infrastructure and Resource Management Platforms](#infrastructure-and-resource-management-platforms)
 - [Oracles](#oracles)
+- [Real Estate on Blockchain](#real-estate-on-blockchain)
 - [Privacy Blockchains](#privacy-blockchains)
 - [Security Platforms](#security-platforms)
 - [Smart Contract Platforms](#smart-contract-platforms)
@@ -76,6 +77,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [Astroport](https://astroport.fi/) - A 24/7 marketplace where liquidity providers and traders meet, offering programmable liquidity through smart contracts, integration with other dApps, and earning opportunities for LPs via fees and ASTRO tokens.
 
+### Decentralized Media Networks
+
+- [OmniFlix Network](https://omniflix.network/) - Decentralized media and network layer for creators and sovereign communities, powered by NFTs and related distribution protocols.
+
 ### DeFi Platforms
 
 - [Mars Protocol](https://marsprotocol.io/) - An autonomous credit protocol in the Cosmos universe for lending, borrowing, and earning, built on the Mars Hub blockchain.
@@ -83,6 +88,9 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [WhiteWhale](https://whitewhale.money/) - A solution to fractured liquidity and unstable pricing, connecting liquidity across the Cosmos ecosystem, empowering retail users with flash loans and open-source bots for liquidations and arbitrage, fueled by the Whale token.
 - [Comdex](https://comdex.one/) - A secure and dev-friendly DeFi chain powered by the CMDX token, built using Cosmos SDK and CosmWasm, enabling seamless deployment of dApps and ensuring optimal synergy between applications on the chain.
 - [Kujira](https://kujira.network/) - A decentralized ecosystem for protocols, builders, and Web3 users seeking sustainable fintech. Kujira offers a semi-permissioned environment, on-chain scheduler, native token generation, and is built with Cosmos SDK, supporting CosmWasm 1.0 for secure and efficient smart contract development.
+- [Crescent](https://crescent.network/) - A connected DeFi functionality enhancing capital efficiency and risk management in the Cosmos Ecosystem. Features include Crescent DEX, Derivatives, and a marketplace for multi-chain assets.
+- [Picasso](https://picasso.xyz/) - An extensive offering of cross-chain native pallets forming DeFi’s most robust interoperable platform.
+- [Trustless Zone](https://www.trustless.zone/#ux) - Centauri utilizes Inter-Blockchain Communication (IBC) to enable trustless transfers between multiple ecosystems, offering self-custodied asset transfers, cross-ecosystem transport, and a seamless user experience.
 
 ### Development Tools
 
@@ -95,6 +103,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 ### Oracles
 
 - [Band Protocol](https://www.bandprotocol.com/) - A cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts, compatible with multiple blockchains, ensuring data integrity in a decentralized manner.
+
+### Real Estate on Blockchain
+
+- [Dig Chain](https://digchain.org/) - Tokenized real estate on the Cosmos Network, facilitating IBC-compatible real estate and applying Cosmos governance to real-world projects. Dig Chain is a governance-focused, layer-1 blockchain acting as a hub for various regional chains, each geo-fenced to ensure compliance with local regulations and enabling the tokenization of real estate.
 
 ### Privacy Blockchains
 
