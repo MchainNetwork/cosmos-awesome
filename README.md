@@ -16,14 +16,17 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Community and Learning Platforms](#community-and-learning-platforms)
 - [dApps](#dapps)
 - [Decentralized Exchanges](#decentralized-exchanges)
+- [Decentralized Media Networks](#decentralized-media-networks)
+- [Decentralized Carbon Offsetting](#decentralized-carbon-offsetting)
 - [DeFi Platforms](#defi-platforms)
 - [Development Tools](#development-tools)
 - [Infrastructure and Resource Management Platforms](#infrastructure-and-resource-management-platforms)
 - [Oracles](#oracles)
+- [Oracles and AI Services](#oracles-and-ai-services)
 - [Real Estate on Blockchain](#real-estate-on-blockchain)
 - [Privacy Blockchains](#privacy-blockchains)
 - [Security Platforms](#security-platforms)
-- [Staking & Nodes Services](#staking-nodes-services)
+- [Staking and Nodes Services](#staking-and-nodes-services)
 - [Smart Contract Platforms](#smart-contract-platforms)
 - [Staking Platforms](#staking-platforms)
 - [Trading Platforms](#trading-platforms)
@@ -84,6 +87,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [OmniFlix Network](https://omniflix.network/) - Decentralized media and network layer for creators and sovereign communities, powered by NFTs and related distribution protocols.
 
+### Decentralized Carbon Offsetting
+
+- [Altered Carbon](https://alteredcarbon.earth/) - A decentralized platform for the discovery, acquisition, and consumption of Voluntary Emissions Reductions, aiming to provide frictionless market access for carbon reducing projects. The platform is building an AMM and token launchpad for CRPs to lower transaction costs and enhance transparency in the carbon credit market.
+
 ### DeFi Platforms
 
 - [Mars Protocol](https://marsprotocol.io/) - An autonomous credit protocol in the Cosmos universe for lending, borrowing, and earning, built on the Mars Hub blockchain.
@@ -109,6 +116,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [Band Protocol](https://www.bandprotocol.com/) - A cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts, compatible with multiple blockchains, ensuring data integrity in a decentralized manner.
 
+### Oracles and AI Services
+
+- [Oraichain](https://orai.io/) - A Layer 1 AI oracle optimized for AI-enabled dApps and AI Oracle services, enabling secure integration with Web3 and providing a scalable decentralized mechanism to verify the multidimensional trustworthiness of AI. Oraichain ensures the secure delivery of AI-generated data to smart contracts, enhancing transparency and trust for AI-integrated dApps.
+
 ### Real Estate on Blockchain
 
 - [Dig Chain](https://digchain.org/) - Tokenized real estate on the Cosmos Network, facilitating IBC-compatible real estate and applying Cosmos governance to real-world projects. Dig Chain is a governance-focused, layer-1 blockchain acting as a hub for various regional chains, each geo-fenced to ensure compliance with local regulations and enabling the tokenization of real estate.
@@ -132,7 +143,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Quicksilver](https://quicksilver.zone/) - Liquid stake your Cosmos assets with any preferred validator, earn staking APY, and receive qASSETs for various financial activities while retaining governance rights on the native chain.
 - [Stride Zone](https://www.stride.zone/) - Receive stTokens when you stake, which can be freely traded and redeemed at any time to receive your original tokens plus staking rewards.
 
-### Staking & Nodes Services
+### Staking and Nodes Services
 
 - [Allnodes](https://www.allnodes.com/) - Offers Masternodes, Validator Nodes, Sentry Nodes, and Full Nodes setup in minutes, backed by multilayered monitoring systems for maximum uptime. Also provides staking services and address monitoring for various coins.
 
