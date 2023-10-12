@@ -2,6 +2,8 @@
 
 A curated collection of services, dApps, and other resources related to the Cosmos blockchain network and IBC blockchains.
 
+![Cosmos Awesome](cosmos-awesome.jpg)
+
 ## Table of Contents
 
 - [Analytics Platforms](#analytics-platforms)
