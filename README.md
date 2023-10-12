@@ -99,6 +99,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 ### Development Tools
 
 - [Cosmology](https://cosmology.tech/) - A tool enabling developers to easily build web3 apps in the Interchain Ecosystem, specifically designed for Cosmos SDK and CosmWasm chains, saving hundreds of engineering hours and promoting interoperability.
+- [Elements by Leap Wallet](https://www.leapwallet.io/elements) - A front-end SDK designed to supercharge your dApp’s user experience, offering features like interchain transfers, cross-chain swaps, fiat on-ramps, and IBC swaps with easy integration and customization options.
 
 ### Infrastructure and Resource Management Platforms
 
@@ -143,10 +144,13 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [CryptoCrew Validators](https://ccvalidators.com/) - A reputable Austrian-based validator, IBC relayer, and blockchain infrastructure provider, securing over 30 interchain networks with decentralized bare metal servers, advanced security, and a dedicated 24/7 on-call team. Supports over 35 networks and relays over 50 networks globally.
 - [A41](https://www.a41.io/stake) - Enjoy staking rewards while exploring best-in-class research and content, tailored to provide only the most useful information to the audience.
+- [Cosmostation](https://cosmostation.io/) - A trusted partner in decentralization, offering state-of-the-art security, contributions to the Cosmos ecosystem with tools like Mintscan and multi-chain bridges, and prioritizing delegators with high, stable staking rewards and 99% uptime.
 
 ### Wallets
 
 - [Keplr Wallet](https://www.keplr.app/) - Fast and lean wallet with a compact UI, compatible with IBC blockchains, offering asset management and reward claims right in your browser.
+- [Cosmostation Extension](https://cosmostation.io/products/cosmostation_extension) - A non-custodial multi-chain cryptocurrency browser extension wallet that supports over 60 blockchains including Cosmos, Ethereum, and Sui.
+- [Leap Wallet](https://www.leapwallet.io/) - A non-custodial wallet ensuring that all your assets remain yours, supporting multiple platforms including mobile, tablet, and desktops, and audited by leading blockchain security experts for maximum safety.
 
 ### Web3 Frameworks
 
