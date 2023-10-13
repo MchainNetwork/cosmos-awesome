@@ -12,6 +12,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Bridges](#bridges)
 - [Blockchain Explorers](#blockchain-explorers)
 - [Blockchain Frameworks](#blockchain-frameworks)
+- [Blockchain Interoperability](#blockchain-interoperability)
 - [Blockchain Platforms](#blockchain-platforms)
 - [Community and Learning Platforms](#community-and-learning-platforms)
 - [dApps](#dapps)
@@ -63,6 +64,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [Cosmos SDK](https://cosmos.network/) - A state-of-the-art blockchain framework powering the Cosmos Hub and its expanding orbit of sovereign chains, enabling the creation of innovative applications in the internet of blockchains.
 
+### Blockchain Interoperability
+
+- [IBC Protocol](https://www.ibcprotocol.dev/) - IBC is a blockchain interoperability protocol enabling secure and permissionless transfer of arbitrary data across 100+ IBC-enabled chains. It supports universal interoperability, permissionless access, and enhanced security. IBC enables asynchronous communication, middleware customization, interchain accounts, interchain queries, and cross-chain token transfers.
+
 ### Blockchain Platforms
 
 - [Kava](https://www.kava.io/) - Combines Ethereum smart contract development with the interoperability of the Cosmos SDK, connecting to over 30 chains in the Cosmos ecosystem.
@@ -70,6 +75,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Injective](https://injective.com/) - A financial blockchain offering out-of-the-box modules and interoperable smart contracts, built with the Cosmos SDK, enabling instant transaction finality and fast cross-chain transactions, aiming to create a free and inclusive financial system.
 - [Radix DLT](https://www.radixdlt.com/) - Utilizes Scrypto and Radix Engine to revolutionize Web3 development, offering intuitive tools for the fast, secure development and deployment of powerful DeFi and Web3 applications, ensuring asset management ease and enhanced security against costly DeFi hacks.
 - [Odin Protocol](https://odinprotocol.io/) - A data-centric, interoperable ecosystem built on a layer-1 blockchain with an inbuilt oracle and a rewards-based system for users. ODIN enables private, secure data sharing with dApps and anonymous data exchange, focusing on user-driven data while ensuring privacy and security.
+- [Axelar](https://axelar.network/) - Axelar is an interoperability network designed with a robust security and scalability model, offering an infrastructure-first approach that provides an enhanced developer experience reminiscent of web2.
 
 ### Community and Learning Platforms
 
