@@ -19,12 +19,15 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Blockchain Protocols](#blockchain-protocols)
 - [Cross-Chain Liquidity Protocol](#cross-chain-liquidity-protocol)
 - [dApps](#dapps)
+- [Decentralized Data Markets](#decentralized-data-markets)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Decentralized Media Networks](#decentralized-media-networks)
 - [Decentralized Carbon Offsetting](#decentralized-carbon-offsetting)
+- [Decentralized Payment Network for Cannabis Industry](#decentralized-payment-network-for-cannabis-industry)
 - [DeFi Platforms](#defi-platforms)
 - [Development Tools](#development-tools)
 - [Liquid Staking and DeFi](#liquid-staking-and-defi)
+- [NFT Marketplace](#nft-marketplace)
 - [Infrastructure and Resource Management Platforms](#infrastructure-and-resource-management-platforms)
 - [Oracles](#oracles)
 - [Oracles and AI Services](#oracles-and-ai-services)
@@ -52,6 +55,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 ### Asset Issuance
 
 - [Noble](https://nobleassets.xyz/) - The premier asset issuance chain in Cosmos, offering security, liquidity, compliance, standardization, and neutrality for projects needing access to natively issued assets like USDC.
+- [AssetMantle](https://www.assetmantle.one/) - A suite of products that fosters a distributed NFT economy, enabling users to develop NFT collections, marketplaces, and storefronts. The platform promotes a network of distributed environments with the world state exclusively stored in the AssetMantle chain.
 
 ### Asset Management
 
@@ -88,6 +92,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Radix DLT](https://www.radixdlt.com/) - Utilizes Scrypto and Radix Engine to revolutionize Web3 development, offering intuitive tools for the fast, secure development and deployment of powerful DeFi and Web3 applications, ensuring asset management ease and enhanced security against costly DeFi hacks.
 - [Odin Protocol](https://odinprotocol.io/) - A data-centric, interoperable ecosystem built on a layer-1 blockchain with an inbuilt oracle and a rewards-based system for users. ODIN enables private, secure data sharing with dApps and anonymous data exchange, focusing on user-driven data while ensuring privacy and security.
 - [Axelar](https://axelar.network/) - Axelar is an interoperability network designed with a robust security and scalability model, offering an infrastructure-first approach that provides an enhanced developer experience reminiscent of web2.
+- [BitSong](https://bitsong.io/) - A decentralized ecosystem designed to empower the music industry, offering a trustless marketplace for music streaming, Fan Tokens, and NFTs, powered by the BTSG token.
 
 ### Blockchain Protocols
 
@@ -101,6 +106,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [Teritori](https://teritori.com/) - The super dApp for unstoppable organizations, enabling resilient and transparent communication and interaction for organizations.
 
+### Decentralized Data Markets
+
+- [cheqd](https://cheqd.io/) - Infrastructure for trusted data markets, enabling the exchange and monetization of verifiable, portable, and privacy-preserving data. cheqd is built on a public permissionless network utilizing Self-Sovereign Identity (SSI) and blockchain technologies, offering payment rails, decentralized identity, and governance structures for trusted data. It supports interoperability with an enterprise SDK and features like zero-knowledge proof credentials for enhanced privacy.
+
 ### Decentralized Exchanges
 
 - [Astroport](https://astroport.fi/) - A 24/7 marketplace where liquidity providers and traders meet, offering programmable liquidity through smart contracts, integration with other dApps, and earning opportunities for LPs via fees and ASTRO tokens.
@@ -112,6 +121,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 ### Decentralized Carbon Offsetting
 
 - [Altered Carbon](https://alteredcarbon.earth/) - A decentralized platform for the discovery, acquisition, and consumption of Voluntary Emissions Reductions, aiming to provide frictionless market access for carbon reducing projects. The platform is building an AMM and token launchpad for CRPs to lower transaction costs and enhance transparency in the carbon credit market.
+
+### Decentralized Payment Network for Cannabis Industry
+
+- [BitCanna](https://www.bitcanna.io/) - A decentralized payment network and supply chain for the legal cannabis industry, offering secure payment systems and transparent supply chain management to enhance trust and legitimacy.
 
 ### DeFi Platforms
 
@@ -133,6 +146,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 ### Liquid Staking and DeFi
 
 - [Persistence](https://persistence.one/) - Persistence is a Tendermint-based Layer-1 blockchain focused on facilitating an ecosystem of DeFi applications that unlock the liquidity of staked assets. It aims to offer a seamless and capital-efficient experience for PoS users and developers, enabling the creation of applications centered around liquid staked assets. Users can earn staking rewards while engaging in various DeFi activities, thanks to the issuance and deployment of liquid-staked stkASSETs via pSTAKE. The platform also supports the deployment of Dapps through smart contracts enabled by CosmWasm.
+
+### NFT Marketplace
+
+- [Like.co](https://about.like.co/) - A mini NFT marketplace that can be embedded into any website, allowing writers to focus on creating quality content while readers can collect and own their favorite articles in NFT form. Enables the selling of work as NFTs without the technical hassle, simplifying the process of NFT creation and publishing on the internet.
 
 ### Infrastructure and Resource Management Platforms
 
