@@ -6,21 +6,25 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ## Table of Contents
 
+- [AI and Blockchain Solutions](#ai-and-blockchain-solutions)
 - [Analytics Platforms](#analytics-platforms)
 - [Asset Issuance](#asset-issuance)
 - [Asset Management](#asset-management)
 - [Bridges](#bridges)
 - [Blockchain Explorers](#blockchain-explorers)
 - [Blockchain Frameworks](#blockchain-frameworks)
+- [Blockchain Identity](#blockchain-identity)
 - [Blockchain Interoperability](#blockchain-interoperability)
 - [Blockchain Platforms](#blockchain-platforms)
-- [Community and Learning Platforms](#community-and-learning-platforms)
+- [Blockchain Protocols](#blockchain-protocols)
+- [Cross-Chain Liquidity Protocol](#cross-chain-liquidity-protocol)
 - [dApps](#dapps)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Decentralized Media Networks](#decentralized-media-networks)
 - [Decentralized Carbon Offsetting](#decentralized-carbon-offsetting)
 - [DeFi Platforms](#defi-platforms)
 - [Development Tools](#development-tools)
+- [Liquid Staking and DeFi](#liquid-staking-and-defi)
 - [Infrastructure and Resource Management Platforms](#infrastructure-and-resource-management-platforms)
 - [Oracles](#oracles)
 - [Oracles and AI Services](#oracles-and-ai-services)
@@ -36,6 +40,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Web3 Frameworks](#web3-frameworks)
 
 ## Collection
+
+### AI and Blockchain Solutions
+
+- [Fetch.ai](https://fetch.ai/) - A project that combines blockchain and AI to create a decentralized machine learning platform for various applications, including a holiday booking service that intuitively knows what the customer wants, eliminating the repetitive hassle of booking holidays.
 
 ### Analytics Platforms
 
@@ -64,6 +72,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [Cosmos SDK](https://cosmos.network/) - A state-of-the-art blockchain framework powering the Cosmos Hub and its expanding orbit of sovereign chains, enabling the creation of innovative applications in the internet of blockchains.
 
+### Blockchain Identity
+
+- [Starname](https://www.starname.me/) - Starname allows users to reserve their blockchain identity and crypto name, empowering creators and individuals in the digital space. The IOV token is used to purchase *starnames and for staking rewards. Starname is integrated with partners like Cosmos, Cosmostation, Wallet Connect, and Ledger, among others.
+
 ### Blockchain Interoperability
 
 - [IBC Protocol](https://www.ibcprotocol.dev/) - IBC is a blockchain interoperability protocol enabling secure and permissionless transfer of arbitrary data across 100+ IBC-enabled chains. It supports universal interoperability, permissionless access, and enhanced security. IBC enables asynchronous communication, middleware customization, interchain accounts, interchain queries, and cross-chain token transfers.
@@ -77,9 +89,13 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Odin Protocol](https://odinprotocol.io/) - A data-centric, interoperable ecosystem built on a layer-1 blockchain with an inbuilt oracle and a rewards-based system for users. ODIN enables private, secure data sharing with dApps and anonymous data exchange, focusing on user-driven data while ensuring privacy and security.
 - [Axelar](https://axelar.network/) - Axelar is an interoperability network designed with a robust security and scalability model, offering an infrastructure-first approach that provides an enhanced developer experience reminiscent of web2.
 
-### Community and Learning Platforms
+### Blockchain Protocols
 
-- 
+- [Carbon](https://carbon.network/) - A decentralized cross-chain financial protocol built on a scalable Proof-of-Stake blockchain, designed for trading derivatives and other financial instruments with fast finality and high transaction throughput. Fully EVM compatible via Ethermint.
+
+### Cross-Chain Liquidity Protocol
+
+- [THORChain](https://thorchain.org/) - A decentralized network facilitating native asset settlement across multiple blockchains including Bitcoin, Ethereum, BNB Chain, Avalanche, Cosmos Hub, Dogecoin, Bitcoin Cash, and Litecoin. THORChain is secured by its native token, RUNE, and allows users to swap native assets or deposit assets to earn yield from swaps.
 
 ### dApps
 
@@ -113,6 +129,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [Cosmology](https://cosmology.tech/) - A tool enabling developers to easily build web3 apps in the Interchain Ecosystem, specifically designed for Cosmos SDK and CosmWasm chains, saving hundreds of engineering hours and promoting interoperability.
 - [Elements by Leap Wallet](https://www.leapwallet.io/elements) - A front-end SDK designed to supercharge your dApp’s user experience, offering features like interchain transfers, cross-chain swaps, fiat on-ramps, and IBC swaps with easy integration and customization options.
+
+### Liquid Staking and DeFi
+
+- [Persistence](https://persistence.one/) - Persistence is a Tendermint-based Layer-1 blockchain focused on facilitating an ecosystem of DeFi applications that unlock the liquidity of staked assets. It aims to offer a seamless and capital-efficient experience for PoS users and developers, enabling the creation of applications centered around liquid staked assets. Users can earn staking rewards while engaging in various DeFi activities, thanks to the issuance and deployment of liquid-staked stkASSETs via pSTAKE. The platform also supports the deployment of Dapps through smart contracts enabled by CosmWasm.
 
 ### Infrastructure and Resource Management Platforms
 
