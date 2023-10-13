@@ -4,19 +4,21 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ![Cosmos Awesome](cosmos-awesome.jpg)
 
-## Table of Contents
+⚛️ = Cosmos SDK blockchain
 
+## Table of Contents
 - [AI and Blockchain Solutions](#ai-and-blockchain-solutions)
 - [Analytics Platforms](#analytics-platforms)
 - [Asset Issuance](#asset-issuance)
 - [Asset Management](#asset-management)
-- [Bridges](#bridges)
 - [Blockchain Explorers](#blockchain-explorers)
 - [Blockchain Frameworks](#blockchain-frameworks)
 - [Blockchain Identity](#blockchain-identity)
+- [Blockchain Infrastructure](#blockchain-infrastructure)
 - [Blockchain Interoperability](#blockchain-interoperability)
 - [Blockchain Platforms](#blockchain-platforms)
 - [Blockchain Protocols](#blockchain-protocols)
+- [Bridges](#bridges)
 - [Cross-Chain Liquidity Protocol](#cross-chain-liquidity-protocol)
 - [dApps](#dapps)
 - [Decentralized Carbon Offsetting](#decentralized-carbon-offsetting)
@@ -27,27 +29,26 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Decentralized Payment Network for Cannabis Industry](#decentralized-payment-network-for-cannabis-industry)
 - [DeFi Platforms](#defi-platforms)
 - [Development Tools](#development-tools)
+- [Infrastructure and Resource Management Platforms](#infrastructure-and-resource-management-platforms)
 - [Liquid Staking and DeFi](#liquid-staking-and-defi)
 - [NFT Marketplace](#nft-marketplace)
-- [Infrastructure and Resource Management Platforms](#infrastructure-and-resource-management-platforms)
-- [Oracles](#oracles)
 - [Oracles and AI Services](#oracles-and-ai-services)
-- [Real Estate on Blockchain](#real-estate-on-blockchain)
+- [Oracles](#oracles)
 - [Privacy Blockchains](#privacy-blockchains)
+- [Real Estate on Blockchain](#real-estate-on-blockchain)
 - [Security Platforms](#security-platforms)
-- [Staking and Nodes Services](#staking-and-nodes-services)
 - [Smart Contract Platforms](#smart-contract-platforms)
+- [Staking and Nodes Services](#staking-and-nodes-services)
 - [Staking Platforms](#staking-platforms)
 - [Trading Platforms](#trading-platforms)
 - [Validators](#validators)
 - [Wallets](#wallets)
 - [Web3 Frameworks](#web3-frameworks)
-
 ## Collection
 
 ### AI and Blockchain Solutions
 
-- [Fetch.ai](https://fetch.ai/) - A project that combines blockchain and AI to create a decentralized machine learning platform for various applications, including a holiday booking service that intuitively knows what the customer wants, eliminating the repetitive hassle of booking holidays.
+- [Fetch.ai](https://fetch.ai/) ⚛️ - A project that combines blockchain and AI to create a decentralized machine learning platform for various applications, including a holiday booking service that intuitively knows what the customer wants, eliminating the repetitive hassle of booking holidays.
 
 ### Analytics Platforms
 
@@ -55,7 +56,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### Asset Issuance
 
-- [Noble](https://nobleassets.xyz/) - The premier asset issuance chain in Cosmos, offering security, liquidity, compliance, standardization, and neutrality for projects needing access to natively issued assets like USDC.
+- [Noble](https://nobleassets.xyz/) ⚛️ - The premier asset issuance chain in Cosmos, offering security, liquidity, compliance, standardization, and neutrality for projects needing access to natively issued assets like USDC.
 - [AssetMantle](https://www.assetmantle.one/) - A suite of products that fosters a distributed NFT economy, enabling users to develop NFT collections, marketplaces, and storefronts. The platform promotes a network of distributed environments with the world state exclusively stored in the AssetMantle chain.
 
 ### Asset Management
@@ -76,6 +77,10 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [Starname](https://www.starname.me/) - Starname allows users to reserve their blockchain identity and crypto name, empowering creators and individuals in the digital space. The IOV token is used to purchase *starnames and for staking rewards. Starname is integrated with partners like Cosmos, Cosmostation, Wallet Connect, and Ledger, among others.
 
+### Blockchain Infrastructure
+
+- [Numia](https://www.numia.xyz/) - An on-chain Data Indexer and RPC provider that simplifies the process of building apps by managing complicated infrastructure and RPC queries.
+
 ### Blockchain Interoperability
 
 - [IBC Protocol](https://www.ibcprotocol.dev/) - IBC is a blockchain interoperability protocol enabling secure and permissionless transfer of arbitrary data across 100+ IBC-enabled chains. It supports universal interoperability, permissionless access, and enhanced security. IBC enables asynchronous communication, middleware customization, interchain accounts, interchain queries, and cross-chain token transfers.
@@ -83,12 +88,14 @@ A curated collection of services, dApps, and other resources related to the Cosm
 ### Blockchain Platforms
 
 - [Kava](https://www.kava.io/) - Combines Ethereum smart contract development with the interoperability of the Cosmos SDK, connecting to over 30 chains in the Cosmos ecosystem.
-- [Gitopia](https://gitopia.com/) - An application-specific blockchain built on Cosmos SDK, optimized for high throughput, fast finality, and direct integration with other IBC compatible chains.
-- [Injective](https://injective.com/) - A financial blockchain offering out-of-the-box modules and interoperable smart contracts, built with the Cosmos SDK, enabling instant transaction finality and fast cross-chain transactions, aiming to create a free and inclusive financial system.
+- [Gitopia](https://gitopia.com/) ⚛️ - An application-specific blockchain built on Cosmos SDK, optimized for high throughput, fast finality, and direct integration with other IBC compatible chains.
+- [Injective](https://injective.com/) ⚛️ - A financial blockchain offering out-of-the-box modules and interoperable smart contracts, built with the Cosmos SDK, enabling instant transaction finality and fast cross-chain transactions, aiming to create a free and inclusive financial system.
 - [Radix DLT](https://www.radixdlt.com/) - Utilizes Scrypto and Radix Engine to revolutionize Web3 development, offering intuitive tools for the fast, secure development and deployment of powerful DeFi and Web3 applications, ensuring asset management ease and enhanced security against costly DeFi hacks.
 - [Odin Protocol](https://odinprotocol.io/) - A data-centric, interoperable ecosystem built on a layer-1 blockchain with an inbuilt oracle and a rewards-based system for users. ODIN enables private, secure data sharing with dApps and anonymous data exchange, focusing on user-driven data while ensuring privacy and security.
 - [Axelar](https://axelar.network/) - Axelar is an interoperability network designed with a robust security and scalability model, offering an infrastructure-first approach that provides an enhanced developer experience reminiscent of web2.
-- [BitSong](https://bitsong.io/) - A decentralized ecosystem designed to empower the music industry, offering a trustless marketplace for music streaming, Fan Tokens, and NFTs, powered by the BTSG token.
+- [BitSong](https://bitsong.io/) ⚛️ - A decentralized ecosystem designed to empower the music industry, offering a trustless marketplace for music streaming, Fan Tokens, and NFTs, powered by the BTSG token.
+- [e-Money](https://e-money.com/) ⚛️ - A blockchain-based system offering immediate finality and settlement with near-zero transaction fees. Designed for accessibility, fairness, and transparency, e-Money is ideal for fast, low-cost, and secure payments, remittances, or as a safe haven during high market volatility.
+- [Regen Network](https://www.regen.network/) ⚛️ - Catalyzes climate finance through a platform to originate and invest in high-integrity carbon and biodiversity credits from ecological regeneration projects. It addresses the problem of broken economic models that incentivize land degradation and climate change by promoting ecosystem regeneration. The Regen Marketplace enables corporations to buy, trade, and retire digital carbon and ecological credits.
 
 ### Blockchain Protocols
 
@@ -105,7 +112,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### dApps
 
-- [Teritori](https://teritori.com/) - The super dApp for unstoppable organizations, enabling resilient and transparent communication and interaction for organizations.
+- [Teritori](https://teritori.com/) ⚛️ - The super dApp for unstoppable organizations, enabling resilient and transparent communication and interaction for organizations.
 
 ### Decentralized Carbon Offsetting
 
@@ -117,7 +124,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### Decentralized Data Markets
 
-- [cheqd](https://cheqd.io/) - Infrastructure for trusted data markets, enabling the exchange and monetization of verifiable, portable, and privacy-preserving data. cheqd is built on a public permissionless network utilizing Self-Sovereign Identity (SSI) and blockchain technologies, offering payment rails, decentralized identity, and governance structures for trusted data. It supports interoperability with an enterprise SDK and features like zero-knowledge proof credentials for enhanced privacy.
+- [cheqd](https://cheqd.io/) ⚛️ - Infrastructure for trusted data markets, enabling the exchange and monetization of verifiable, portable, and privacy-preserving data. cheqd is built on a public permissionless network utilizing Self-Sovereign Identity (SSI) and blockchain technologies, offering payment rails, decentralized identity, and governance structures for trusted data. It supports interoperability with an enterprise SDK and features like zero-knowledge proof credentials for enhanced privacy.
 
 ### Decentralized Exchanges
 
@@ -129,7 +136,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### Decentralized Payment Network for Cannabis Industry
 
-- [BitCanna](https://www.bitcanna.io/) - A decentralized payment network and supply chain for the legal cannabis industry, offering secure payment systems and transparent supply chain management to enhance trust and legitimacy.
+- [BitCanna](https://www.bitcanna.io/) ⚛️ - A decentralized payment network and supply chain for the legal cannabis industry, offering secure payment systems and transparent supply chain management to enhance trust and legitimacy.
 
 ### DeFi Platforms
 
@@ -143,7 +150,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Trustless Zone](https://www.trustless.zone/#ux) - Centauri utilizes Inter-Blockchain Communication (IBC) to enable trustless transfers between multiple ecosystems, offering self-custodied asset transfers, cross-ecosystem transport, and a seamless user experience.
 - [Umee](https://umee.cc/) - A highly programmable, safety-first, autonomous lending algorithm built as a blockchain. Umee is designed to reshape global debt markets in Web3, offering a combination of leverage-focused DeFi applications and interest rate products while enabling scalability, cross-chain interoperability, and privacy.
 - [Sommelier Finance](https://www.sommelier.finance/) - A reimagined gateway into interchain DeFi, built on the Cosmos SDK for maximized interoperability with other blockchains. Sommelier connects to Ethereum and executes strategies across multiple blockchains, offering a blend of off-chain computation without sacrificing decentralization.
-
+- [StreamSwap](https://streamswap.io/) - A protocol for time-based token swaps, enabling community-driven token launches on Osmosis within the Cosmos ecosystem.
 
 ### Development Tools
 
@@ -160,7 +167,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### NFT Marketplace
 
-- [Like.co](https://about.like.co/) - A mini NFT marketplace that can be embedded into any website, allowing writers to focus on creating quality content while readers can collect and own their favorite articles in NFT form. Enables the selling of work as NFTs without the technical hassle, simplifying the process of NFT creation and publishing on the internet.
+- [Like.co](https://like.co/) ⚛️ - A mini NFT marketplace that can be embedded into any website, allowing writers to focus on creating quality content while readers can collect and own their favorite articles in NFT form. Enables the selling of work as NFTs without the technical hassle, simplifying the process of NFT creation and publishing on the internet.
 
 ### Oracles
 
@@ -172,7 +179,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### Privacy Blockchains
 
-- [Secret Network](https://scrt.network/) - The first blockchain with customizable privacy, empowering users to control data sharing and developers to build a more secure Web3.
+- [Secret Network](https://scrt.network/) ⚛️ - The first blockchain with customizable privacy, empowering users to control data sharing and developers to build a more secure Web3.
 
 ### Real Estate on Blockchain
 
