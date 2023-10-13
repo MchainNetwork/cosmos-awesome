@@ -19,10 +19,11 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Blockchain Protocols](#blockchain-protocols)
 - [Cross-Chain Liquidity Protocol](#cross-chain-liquidity-protocol)
 - [dApps](#dapps)
+- [Decentralized Carbon Offsetting](#decentralized-carbon-offsetting)
+- [Decentralized Computing](#decentralized-computing)
 - [Decentralized Data Markets](#decentralized-data-markets)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Decentralized Media Networks](#decentralized-media-networks)
-- [Decentralized Carbon Offsetting](#decentralized-carbon-offsetting)
 - [Decentralized Payment Network for Cannabis Industry](#decentralized-payment-network-for-cannabis-industry)
 - [DeFi Platforms](#defi-platforms)
 - [Development Tools](#development-tools)
@@ -61,11 +62,6 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [Quasar](https://www.quasar.fi/) - A decentralized appchain for Interchain asset management, supporting a variety of assets and management actions, and offering customizable, governable asset management containers.
 
-### Bridges
-
-- [Gravity Bridge](https://www.gravitybridge.net/) - A neutral platform bridging Ethereum to the Cosmos blockchain, enabling the movement of ERC20 assets between the two ecosystems.
-- [Nomic](https://www.nomic.io/) - Enables users to efficiently bridge Bitcoin to Cosmos DeFi ecosystems like Osmosis through IBC, allowing seamless use of Bitcoin on any IBC-enabled chain.
-
 ### Blockchain Explorers
 
 - [Big Dipper](https://bigdipper.live/) - An open-source block explorer and token management tool for over 25 proof-of-stake blockchains, widely forked and used globally.
@@ -98,6 +94,11 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [Carbon](https://carbon.network/) - A decentralized cross-chain financial protocol built on a scalable Proof-of-Stake blockchain, designed for trading derivatives and other financial instruments with fast finality and high transaction throughput. Fully EVM compatible via Ethermint.
 
+### Bridges
+
+- [Gravity Bridge](https://www.gravitybridge.net/) - A neutral platform bridging Ethereum to the Cosmos blockchain, enabling the movement of ERC20 assets between the two ecosystems.
+- [Nomic](https://www.nomic.io/) - Enables users to efficiently bridge Bitcoin to Cosmos DeFi ecosystems like Osmosis through IBC, allowing seamless use of Bitcoin on any IBC-enabled chain.
+
 ### Cross-Chain Liquidity Protocol
 
 - [THORChain](https://thorchain.org/) - A decentralized network facilitating native asset settlement across multiple blockchains including Bitcoin, Ethereum, BNB Chain, Avalanche, Cosmos Hub, Dogecoin, Bitcoin Cash, and Litecoin. THORChain is secured by its native token, RUNE, and allows users to swap native assets or deposit assets to earn yield from swaps.
@@ -105,6 +106,14 @@ A curated collection of services, dApps, and other resources related to the Cosm
 ### dApps
 
 - [Teritori](https://teritori.com/) - The super dApp for unstoppable organizations, enabling resilient and transparent communication and interaction for organizations.
+
+### Decentralized Carbon Offsetting
+
+- [Altered Carbon](https://alteredcarbon.earth/) - A decentralized platform for the discovery, acquisition, and consumption of Voluntary Emissions Reductions, aiming to provide frictionless market access for carbon reducing projects. The platform is building an AMM and token launchpad for CRPs to lower transaction costs and enhance transparency in the carbon credit market.
+
+### Decentralized Computing
+
+- [CUDOS](https://www.cudos.org/) - A decentralized computing platform enabling the sharing of the world's computational power. The Cudos Foundation is dedicated to fostering the growth of the Cudos ecosystem, serving as a support hub for projects, developers, and community members.
 
 ### Decentralized Data Markets
 
@@ -117,10 +126,6 @@ A curated collection of services, dApps, and other resources related to the Cosm
 ### Decentralized Media Networks
 
 - [OmniFlix Network](https://omniflix.network/) - Decentralized media and network layer for creators and sovereign communities, powered by NFTs and related distribution protocols.
-
-### Decentralized Carbon Offsetting
-
-- [Altered Carbon](https://alteredcarbon.earth/) - A decentralized platform for the discovery, acquisition, and consumption of Voluntary Emissions Reductions, aiming to provide frictionless market access for carbon reducing projects. The platform is building an AMM and token launchpad for CRPs to lower transaction costs and enhance transparency in the carbon credit market.
 
 ### Decentralized Payment Network for Cannabis Industry
 
@@ -137,11 +142,17 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Picasso](https://picasso.xyz/) - An extensive offering of cross-chain native pallets forming DeFi’s most robust interoperable platform.
 - [Trustless Zone](https://www.trustless.zone/#ux) - Centauri utilizes Inter-Blockchain Communication (IBC) to enable trustless transfers between multiple ecosystems, offering self-custodied asset transfers, cross-ecosystem transport, and a seamless user experience.
 - [Umee](https://umee.cc/) - A highly programmable, safety-first, autonomous lending algorithm built as a blockchain. Umee is designed to reshape global debt markets in Web3, offering a combination of leverage-focused DeFi applications and interest rate products while enabling scalability, cross-chain interoperability, and privacy.
+- [Sommelier Finance](https://www.sommelier.finance/) - A reimagined gateway into interchain DeFi, built on the Cosmos SDK for maximized interoperability with other blockchains. Sommelier connects to Ethereum and executes strategies across multiple blockchains, offering a blend of off-chain computation without sacrificing decentralization.
+
 
 ### Development Tools
 
 - [Cosmology](https://cosmology.tech/) - A tool enabling developers to easily build web3 apps in the Interchain Ecosystem, specifically designed for Cosmos SDK and CosmWasm chains, saving hundreds of engineering hours and promoting interoperability.
 - [Elements by Leap Wallet](https://www.leapwallet.io/elements) - A front-end SDK designed to supercharge your dApp’s user experience, offering features like interchain transfers, cross-chain swaps, fiat on-ramps, and IBC swaps with easy integration and customization options.
+
+### Infrastructure and Resource Management Platforms
+
+- [Akash Network](https://akash.network/) - Specializes in infrastructure and resource management, powered by SDL and Kubernetes, offering persistent storage and enhanced security.
 
 ### Liquid Staking and DeFi
 
@@ -151,10 +162,6 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [Like.co](https://about.like.co/) - A mini NFT marketplace that can be embedded into any website, allowing writers to focus on creating quality content while readers can collect and own their favorite articles in NFT form. Enables the selling of work as NFTs without the technical hassle, simplifying the process of NFT creation and publishing on the internet.
 
-### Infrastructure and Resource Management Platforms
-
-- [Akash Network](https://akash.network/) - Specializes in infrastructure and resource management, powered by SDL and Kubernetes, offering persistent storage and enhanced security.
-
 ### Oracles
 
 - [Band Protocol](https://www.bandprotocol.com/) - A cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts, compatible with multiple blockchains, ensuring data integrity in a decentralized manner.
@@ -163,13 +170,13 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 - [Oraichain](https://orai.io/) - A Layer 1 AI oracle optimized for AI-enabled dApps and AI Oracle services, enabling secure integration with Web3 and providing a scalable decentralized mechanism to verify the multidimensional trustworthiness of AI. Oraichain ensures the secure delivery of AI-generated data to smart contracts, enhancing transparency and trust for AI-integrated dApps.
 
-### Real Estate on Blockchain
-
-- [Dig Chain](https://digchain.org/) - Tokenized real estate on the Cosmos Network, facilitating IBC-compatible real estate and applying Cosmos governance to real-world projects. Dig Chain is a governance-focused, layer-1 blockchain acting as a hub for various regional chains, each geo-fenced to ensure compliance with local regulations and enabling the tokenization of real estate.
-
 ### Privacy Blockchains
 
 - [Secret Network](https://scrt.network/) - The first blockchain with customizable privacy, empowering users to control data sharing and developers to build a more secure Web3.
+
+### Real Estate on Blockchain
+
+- [Dig Chain](https://digchain.org/) - Tokenized real estate on the Cosmos Network, facilitating IBC-compatible real estate and applying Cosmos governance to real-world projects. Dig Chain is a governance-focused, layer-1 blockchain acting as a hub for various regional chains, each geo-fenced to ensure compliance with local regulations and enabling the tokenization of real estate.
 
 ### Security Platforms
 
@@ -181,14 +188,14 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Neutron](https://neutron.org/) - A secure CosmWasm platform in Cosmos, allowing smart contracts to leverage Interchain technology. Neutron is permissionless, secured by 190M+ staked ATOM, and enables cross-chain interactions, addressing security, neutrality, and infrastructure challenges in multichain protocol hubs.
 - [Archway](https://archway.io/) - An incentivized platform rewarding developers for building scalable cross-chain dApps, equipped with tools for quick development and launch, and offering rewards correlating with the dApps' contributed network value.
 
+### Staking and Nodes Services
+
+- [Allnodes](https://www.allnodes.com/) - Offers Masternodes, Validator Nodes, Sentry Nodes, and Full Nodes setup in minutes, backed by multilayered monitoring systems for maximum uptime. Also provides staking services and address monitoring for various coins.
+
 ### Staking Platforms
 
 - [Quicksilver](https://quicksilver.zone/) - Liquid stake your Cosmos assets with any preferred validator, earn staking APY, and receive qASSETs for various financial activities while retaining governance rights on the native chain.
 - [Stride Zone](https://www.stride.zone/) - Receive stTokens when you stake, which can be freely traded and redeemed at any time to receive your original tokens plus staking rewards.
-
-### Staking and Nodes Services
-
-- [Allnodes](https://www.allnodes.com/) - Offers Masternodes, Validator Nodes, Sentry Nodes, and Full Nodes setup in minutes, backed by multilayered monitoring systems for maximum uptime. Also provides staking services and address monitoring for various coins.
 
 ### Trading Platforms
 

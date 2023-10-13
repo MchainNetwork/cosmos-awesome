@@ -1,0 +1,25 @@
+{
+  "name": "cosmos-awesome",
+  "version": "1.0.0",
+  "description": "A curated collection of services, dApps, and other resources related to the Cosmos blockchain network and IBC blockchains.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MchainNetwork/cosmos-awesome.git"
+  },
+  "scripts": {
+    "sort-markdown": "node sortMarkdown.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cosmos",
+    "ibc",
+    "blockchain",
+    "awesome",
+    "mchain"
+  ],
+  "author": "Mchain",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-toc": "^1.2.0"
+  }
+}
