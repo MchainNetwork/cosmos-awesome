@@ -57,13 +57,13 @@ A curated collection of services, dApps, and other resources related to the Cosm
 ### Asset Issuance
 
 - [Noble](https://nobleassets.xyz/) ⚛️ - The premier asset issuance chain in Cosmos, offering security, liquidity, compliance, standardization, and neutrality for projects needing access to natively issued assets like USDC.
-- [AssetMantle](https://www.assetmantle.one/) - A suite of products that fosters a distributed NFT economy, enabling users to develop NFT collections, marketplaces, and storefronts. The platform promotes a network of distributed environments with the world state exclusively stored in the AssetMantle chain.
+- [AssetMantle](https://www.assetmantle.one/) ⚛️ - A suite of products that fosters a distributed NFT economy, enabling users to develop NFT collections, marketplaces, and storefronts. The platform promotes a network of distributed environments with the world state exclusively stored in the AssetMantle chain.
 
 ### Asset Management
 
-- [Quasar](https://www.quasar.fi/) - A decentralized appchain for Interchain asset management, supporting a variety of assets and management actions, and offering customizable, governable asset management containers.
+- [Quasar](https://www.quasar.fi/) ⚛️ - A decentralized appchain for Interchain asset management, supporting a variety of assets and management actions, and offering customizable, governable asset management containers.
 
-### Blockchain Explorers
+### Blockchain Explorers 
 
 - [Big Dipper](https://bigdipper.live/) - An open-source block explorer and token management tool for over 25 proof-of-stake blockchains, widely forked and used globally.
 - [ATOMScan](https://atomscan.com/) - A user-friendly blockchain explorer for Cosmos (ATOM), designed for transparency and accessibility, enabling anyone to explore transactions effortlessly.
@@ -75,7 +75,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### Blockchain Identity
 
-- [Starname](https://www.starname.me/) - Starname allows users to reserve their blockchain identity and crypto name, empowering creators and individuals in the digital space. The IOV token is used to purchase *starnames and for staking rewards. Starname is integrated with partners like Cosmos, Cosmostation, Wallet Connect, and Ledger, among others.
+- [Starname](https://www.starname.me/) ⚛️ - Starname allows users to reserve their blockchain identity and crypto name, empowering creators and individuals in the digital space. The IOV token is used to purchase *starnames and for staking rewards. Starname is integrated with partners like Cosmos, Cosmostation, Wallet Connect, and Ledger, among others.
 
 ### Blockchain Infrastructure
 
@@ -87,7 +87,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### Blockchain Platforms
 
-- [Kava](https://www.kava.io/) - Combines Ethereum smart contract development with the interoperability of the Cosmos SDK, connecting to over 30 chains in the Cosmos ecosystem.
+- [Kava](https://www.kava.io/) ⚛️ - Combines Ethereum smart contract development with the interoperability of the Cosmos SDK, connecting to over 30 chains in the Cosmos ecosystem.
 - [Gitopia](https://gitopia.com/) ⚛️ - An application-specific blockchain built on Cosmos SDK, optimized for high throughput, fast finality, and direct integration with other IBC compatible chains.
 - [Injective](https://injective.com/) ⚛️ - A financial blockchain offering out-of-the-box modules and interoperable smart contracts, built with the Cosmos SDK, enabling instant transaction finality and fast cross-chain transactions, aiming to create a free and inclusive financial system.
 - [Radix DLT](https://www.radixdlt.com/) - Utilizes Scrypto and Radix Engine to revolutionize Web3 development, offering intuitive tools for the fast, secure development and deployment of powerful DeFi and Web3 applications, ensuring asset management ease and enhanced security against costly DeFi hacks.
@@ -103,8 +103,8 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### Bridges
 
-- [Gravity Bridge](https://www.gravitybridge.net/) - A neutral platform bridging Ethereum to the Cosmos blockchain, enabling the movement of ERC20 assets between the two ecosystems.
-- [Nomic](https://www.nomic.io/) - Enables users to efficiently bridge Bitcoin to Cosmos DeFi ecosystems like Osmosis through IBC, allowing seamless use of Bitcoin on any IBC-enabled chain.
+- [Gravity Bridge](https://www.gravitybridge.net/) ⚛️ - A neutral platform bridging Ethereum to the Cosmos blockchain, enabling the movement of ERC20 assets between the two ecosystems.
+- [Nomic](https://www.nomic.io/) ⚛️ - Enables users to efficiently bridge Bitcoin to Cosmos DeFi ecosystems like Osmosis through IBC, allowing seamless use of Bitcoin on any IBC-enabled chain.
 
 ### Cross-Chain Liquidity Protocol
 
@@ -116,11 +116,11 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### Decentralized Carbon Offsetting
 
-- [Altered Carbon](https://alteredcarbon.earth/) - A decentralized platform for the discovery, acquisition, and consumption of Voluntary Emissions Reductions, aiming to provide frictionless market access for carbon reducing projects. The platform is building an AMM and token launchpad for CRPs to lower transaction costs and enhance transparency in the carbon credit market.
+- [Altered Carbon](https://alteredcarbon.earth/) ⚛️ - A decentralized platform for the discovery, acquisition, and consumption of Voluntary Emissions Reductions, aiming to provide frictionless market access for carbon reducing projects. The platform is building an AMM and token launchpad for CRPs to lower transaction costs and enhance transparency in the carbon credit market.
 
 ### Decentralized Computing
 
-- [CUDOS](https://www.cudos.org/) - A decentralized computing platform enabling the sharing of the world's computational power. The Cudos Foundation is dedicated to fostering the growth of the Cudos ecosystem, serving as a support hub for projects, developers, and community members.
+- [CUDOS](https://www.cudos.org/) ⚛️ - A decentralized computing platform enabling the sharing of the world's computational power. The Cudos Foundation is dedicated to fostering the growth of the Cudos ecosystem, serving as a support hub for projects, developers, and community members.
 
 ### Decentralized Data Markets
 
@@ -132,7 +132,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### Decentralized Media Networks
 
-- [OmniFlix Network](https://omniflix.network/) - Decentralized media and network layer for creators and sovereign communities, powered by NFTs and related distribution protocols.
+- [OmniFlix Network](https://omniflix.network/) ⚛️ - Decentralized media and network layer for creators and sovereign communities, powered by NFTs and related distribution protocols.
 
 ### Decentralized Payment Network for Cannabis Industry
 
@@ -163,7 +163,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### Liquid Staking and DeFi
 
-- [Persistence](https://persistence.one/) - Persistence is a Tendermint-based Layer-1 blockchain focused on facilitating an ecosystem of DeFi applications that unlock the liquidity of staked assets. It aims to offer a seamless and capital-efficient experience for PoS users and developers, enabling the creation of applications centered around liquid staked assets. Users can earn staking rewards while engaging in various DeFi activities, thanks to the issuance and deployment of liquid-staked stkASSETs via pSTAKE. The platform also supports the deployment of Dapps through smart contracts enabled by CosmWasm.
+- [Persistence](https://persistence.one/) ⚛️ - Persistence is a Tendermint-based Layer-1 blockchain focused on facilitating an ecosystem of DeFi applications that unlock the liquidity of staked assets. It aims to offer a seamless and capital-efficient experience for PoS users and developers, enabling the creation of applications centered around liquid staked assets. Users can earn staking rewards while engaging in various DeFi activities, thanks to the issuance and deployment of liquid-staked stkASSETs via pSTAKE. The platform also supports the deployment of Dapps through smart contracts enabled by CosmWasm.
 
 ### NFT Marketplace
 
@@ -183,17 +183,17 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### Real Estate on Blockchain
 
-- [Dig Chain](https://digchain.org/) - Tokenized real estate on the Cosmos Network, facilitating IBC-compatible real estate and applying Cosmos governance to real-world projects. Dig Chain is a governance-focused, layer-1 blockchain acting as a hub for various regional chains, each geo-fenced to ensure compliance with local regulations and enabling the tokenization of real estate.
+- [Dig Chain](https://digchain.org/) ⚛️ - Tokenized real estate on the Cosmos Network, facilitating IBC-compatible real estate and applying Cosmos governance to real-world projects. Dig Chain is a governance-focused, layer-1 blockchain acting as a hub for various regional chains, each geo-fenced to ensure compliance with local regulations and enabling the tokenization of real estate.
 
 ### Security Platforms
 
-- [Shentu](https://www.shentu.technology/) - The first blockchain enabling trustworthy smart contracts through DeepSEA and Shentu Certified Virtual Machine (CVM), decentralized security oracle, and customized reimbursement mechanisms with ShentuShield for enhanced asset protection.
+- [Shentu](https://www.shentu.technology/) ⚛️ - The first blockchain enabling trustworthy smart contracts through DeepSEA and Shentu Certified Virtual Machine (CVM), decentralized security oracle, and customized reimbursement mechanisms with ShentuShield for enhanced asset protection.
 
 ### Smart Contract Platforms
 
-- [Juno](https://junonetwork.io/) - An open-source, permissionless network for decentralized interoperable applications, pioneering CosmWasm development, enabling the deployment of secure inter-chain smart contracts in Rust, powered by the Cosmos SDK and Tendermint Consensus, and governed by on-chain voting.
-- [Neutron](https://neutron.org/) - A secure CosmWasm platform in Cosmos, allowing smart contracts to leverage Interchain technology. Neutron is permissionless, secured by 190M+ staked ATOM, and enables cross-chain interactions, addressing security, neutrality, and infrastructure challenges in multichain protocol hubs.
-- [Archway](https://archway.io/) - An incentivized platform rewarding developers for building scalable cross-chain dApps, equipped with tools for quick development and launch, and offering rewards correlating with the dApps' contributed network value.
+- [Juno](https://junonetwork.io/) ⚛️ - An open-source, permissionless network for decentralized interoperable applications, pioneering CosmWasm development, enabling the deployment of secure inter-chain smart contracts in Rust, powered by the Cosmos SDK and Tendermint Consensus, and governed by on-chain voting.
+- [Neutron](https://neutron.org/) ⚛️ - A secure CosmWasm platform in Cosmos, allowing smart contracts to leverage Interchain technology. Neutron is permissionless, secured by 190M+ staked ATOM, and enables cross-chain interactions, addressing security, neutrality, and infrastructure challenges in multichain protocol hubs.
+- [Archway](https://archway.io/) ⚛️ - An incentivized platform rewarding developers for building scalable cross-chain dApps, equipped with tools for quick development and launch, and offering rewards correlating with the dApps' contributed network value.
 
 ### Staking and Nodes Services
 
@@ -202,7 +202,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 ### Staking Platforms
 
 - [Quicksilver](https://quicksilver.zone/) - Liquid stake your Cosmos assets with any preferred validator, earn staking APY, and receive qASSETs for various financial activities while retaining governance rights on the native chain.
-- [Stride Zone](https://www.stride.zone/) - Receive stTokens when you stake, which can be freely traded and redeemed at any time to receive your original tokens plus staking rewards.
+- [Stride Zone](https://www.stride.zone/) ⚛️ - Receive stTokens when you stake, which can be freely traded and redeemed at any time to receive your original tokens plus staking rewards.
 
 ### Trading Platforms
 
@@ -222,7 +222,7 @@ A curated collection of services, dApps, and other resources related to the Cosm
 
 ### Web3 Frameworks
 
-- [Sentinel dVPN Network](https://sentinel.co/) - A web3 framework for creating decentralized VPNs on a community-driven network of nodes sharing bandwidth, built on a Cosmos-based blockchain.
+- [Sentinel dVPN Network](https://sentinel.co/) ⚛️ - A web3 framework for creating decentralized VPNs on a community-driven network of nodes sharing bandwidth, built on a Cosmos-based blockchain.
 
 ## Contributions
 
