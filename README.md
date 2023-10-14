@@ -96,6 +96,9 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [BitSong](https://bitsong.io/) ⚛️ - A decentralized ecosystem designed to empower the music industry, offering a trustless marketplace for music streaming, Fan Tokens, and NFTs, powered by the BTSG token.
 - [e-Money](https://e-money.com/) ⚛️ - A blockchain-based system offering immediate finality and settlement with near-zero transaction fees. Designed for accessibility, fairness, and transparency, e-Money is ideal for fast, low-cost, and secure payments, remittances, or as a safe haven during high market volatility.
 - [Regen Network](https://www.regen.network/) ⚛️ - Catalyzes climate finance through a platform to originate and invest in high-integrity carbon and biodiversity credits from ecological regeneration projects. It addresses the problem of broken economic models that incentivize land degradation and climate change by promoting ecosystem regeneration. The Regen Marketplace enables corporations to buy, trade, and retire digital carbon and ecological credits.
+- [Coreum](https://www.coreum.com/) ⚛️ - Enterprise-grade blockchain that is modular, fast, secure, and interoperable, designed to meet enterprise needs in compliance with ISO20022. It supports up to 7000 transactions per second, offers smart contract capabilities via Web Assembly (WASM), and facilitates multi-chain interoperability through collateralized wrapping.
+- [IRISnet](https://www.irisnet.org/) ⚛️ - IRISnet integrates IBC + IService, the TCP/IP + HTTP protocol of blockchains, to build and broaden the Internet of Blockchains supporting cross-platform data & application services between on-chain and off-chain.
+- [Evmos](https://evmos.org/) ⚛️ - A scalable, high-throughput Proof-of-Stake blockchain that is fully compatible and interoperable with Ethereum, built using the Cosmos SDK and Tendermint Core. Evmos is the first decentralized EVM chain on the Cosmos Network, focusing on native, cross-chain applications through the implementation of Ethermint, an EVM library designed for the Cosmos Network by the Evmos Core Development Team.
 
 ### Blockchain Protocols
 
@@ -170,8 +173,9 @@ A curated collection of services, dApps, and other resources related to the Cosm
 - [Like.co](https://like.co/) ⚛️ - A mini NFT marketplace that can be embedded into any website, allowing writers to focus on creating quality content while readers can collect and own their favorite articles in NFT form. Enables the selling of work as NFTs without the technical hassle, simplifying the process of NFT creation and publishing on the internet.
 
 ### Oracles
-
+ 
 - [Band Protocol](https://www.bandprotocol.com/) - A cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts, compatible with multiple blockchains, ensuring data integrity in a decentralized manner.
+- [Chainlink-Cosmos](https://github.com/ChainSafe/chainlink-cosmos) - A Cosmos SDK module developed by ChainSafe Systems to integrate Chainlink, a decentralized oracle network, into Cosmos blockchains. It supports the Chainlink OCR functionality for accepting aggregate signed data from a set of oracles and storing it in the blockchain state, making it available to other modules within the same application.
 
 ### Oracles and AI Services
 
